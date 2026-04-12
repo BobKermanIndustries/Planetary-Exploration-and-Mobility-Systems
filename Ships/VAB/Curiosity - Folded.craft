@@ -2,7 +2,7 @@ ship = Curiosity - Folded
 version = 1.12.2
 description = 
 type = VAB
-size = 1.78624547,0.879367828,2.14517331
+size = 1.78624558,0.879367828,2.14517307
 steamPublishedFileId = 0
 persistentId = 978375845
 rot = 0,0,0,0
@@ -16,7 +16,7 @@ PART
 {
 	part = CommonRoverBody_4292818448
 	partName = Part
-	persistentId = 3403215680
+	persistentId = 2050163765
 	pos = 0,15,0
 	attPos = 0,0,0
 	attPos0 = 0,15,0
@@ -279,7 +279,7 @@ PART
 		{
 			AXIS
 			{
-				persistentId = 1002045076
+				persistentId = 1249416624
 				moduleId = 442701020
 				partNickName = Common Rover Forward Movable Rocker Arm - Right
 				rowIndex = 0
@@ -296,7 +296,7 @@ PART
 			}
 			AXIS
 			{
-				persistentId = 1046587823
+				persistentId = 1167595675
 				moduleId = 3946979201
 				partNickName = Common Forward Movable Rocker Arm - Left
 				rowIndex = 24
@@ -313,7 +313,7 @@ PART
 			}
 			AXIS
 			{
-				persistentId = 1453855639
+				persistentId = 1363614113
 				moduleId = 370008138
 				partNickName = Common Movable Rocker Bogie Conncetion - Left
 				rowIndex = 25
@@ -330,7 +330,7 @@ PART
 			}
 			AXIS
 			{
-				persistentId = 1952849358
+				persistentId = 3054245142
 				moduleId = 3525035583
 				partNickName = Common Movable Rocker Bogie Conncetion - Right
 				rowIndex = 26
@@ -347,7 +347,7 @@ PART
 			}
 			AXIS
 			{
-				persistentId = 2904813255
+				persistentId = 4071558968
 				moduleId = 106944037
 				partNickName = Common Rover Bogie Servo Joint - Right
 				rowIndex = 27
@@ -364,7 +364,7 @@ PART
 			}
 			AXIS
 			{
-				persistentId = 2904813255
+				persistentId = 4071558968
 				moduleId = 106944037
 				partNickName = Common Rover Bogie Servo Joint - Right
 				rowIndex = 29
@@ -381,7 +381,7 @@ PART
 			}
 			AXIS
 			{
-				persistentId = 2538259406
+				persistentId = 3147580719
 				moduleId = 1413477628
 				partNickName = Common Rover Bogie Servo Joint - Left
 				rowIndex = 31
@@ -398,7 +398,7 @@ PART
 			}
 			AXIS
 			{
-				persistentId = 2538259406
+				persistentId = 3147580719
 				moduleId = 1413477628
 				partNickName = Common Rover Bogie Servo Joint - Left
 				rowIndex = 32
@@ -415,7 +415,7 @@ PART
 			}
 			AXIS
 			{
-				persistentId = 994346119
+				persistentId = 2957262814
 				moduleId = 1382773096
 				partNickName = Common Rover Rocker Servo Joint
 				rowIndex = 33
@@ -429,7 +429,7 @@ PART
 			}
 			AXIS
 			{
-				persistentId = 1944521123
+				persistentId = 2255112174
 				moduleId = 2900302220
 				partNickName = Common Rover Rocker Servo Joint
 				rowIndex = 34
@@ -446,7 +446,7 @@ PART
 		{
 			ACTION
 			{
-				persistentId = 1002045076
+				persistentId = 1249416624
 				moduleId = 442701020
 				partNickName = Common Rover Forward Movable Rocker Arm - Right
 				rowIndex = 1
@@ -459,7 +459,7 @@ PART
 			}
 			ACTION
 			{
-				persistentId = 1046587823
+				persistentId = 1167595675
 				moduleId = 3946979201
 				partNickName = Common Forward Movable Rocker Arm - Left
 				rowIndex = 2
@@ -472,7 +472,7 @@ PART
 			}
 			ACTION
 			{
-				persistentId = 1453855639
+				persistentId = 1363614113
 				moduleId = 370008138
 				partNickName = Common Movable Rocker Bogie Conncetion - Left
 				rowIndex = 3
@@ -485,7 +485,7 @@ PART
 			}
 			ACTION
 			{
-				persistentId = 1952849358
+				persistentId = 3054245142
 				moduleId = 3525035583
 				partNickName = Common Movable Rocker Bogie Conncetion - Right
 				rowIndex = 5
@@ -498,7 +498,7 @@ PART
 			}
 			ACTION
 			{
-				persistentId = 2904813255
+				persistentId = 4071558968
 				moduleId = 106944037
 				partNickName = Common Rover Bogie Servo Joint - Right
 				rowIndex = 7
@@ -510,7 +510,7 @@ PART
 			}
 			ACTION
 			{
-				persistentId = 2538259406
+				persistentId = 3147580719
 				moduleId = 1413477628
 				partNickName = Common Rover Bogie Servo Joint - Left
 				rowIndex = 13
@@ -522,7 +522,7 @@ PART
 			}
 			ACTION
 			{
-				persistentId = 1944521123
+				persistentId = 2255112174
 				moduleId = 2900302220
 				partNickName = Common Rover Rocker Servo Joint
 				rowIndex = 28
@@ -534,7 +534,7 @@ PART
 			}
 			ACTION
 			{
-				persistentId = 994346119
+				persistentId = 2957262814
 				moduleId = 1382773096
 				partNickName = Common Rover Rocker Servo Joint
 				rowIndex = 30
@@ -737,7 +737,7 @@ PART
 {
 	part = TenacityRoverMast.BKI_4292816560
 	partName = Part
-	persistentId = 2267307392
+	persistentId = 1939588385
 	pos = -0.35213685,15.2131271,-0.415867478
 	attPos = 0,0,0
 	attPos0 = -0.35213685,0.213127136,-0.415867478
@@ -746,7 +746,7 @@ PART
 	attRot0 = 1.86493835E-07,-0.284015447,2.96423957E-14,0.958819747
 	mir = 1,1,1
 	symMethod = Radial
-	autostrutMode = Off
+	autostrutMode = Heaviest
 	rigidAttachment = False
 	istg = -1
 	resPri = 0
@@ -1034,7 +1034,7 @@ PART
 {
 	part = BKI.HazcamRear_4292813918
 	partName = Part
-	persistentId = 1816975637
+	persistentId = 3769235551
 	pos = -2.79022085E-08,14.9594336,0.686724305
 	attPos = 0,0,0
 	attPos0 = -2.79022085E-08,-0.0405664444,0.686724305
@@ -1279,7 +1279,7 @@ PART
 {
 	part = BKI.HazcamFront_4292812970
 	partName = Part
-	persistentId = 3609427529
+	persistentId = 3733460375
 	pos = 0.0289815273,14.8964014,-0.52029866
 	attPos = 0,0,0
 	attPos0 = 0.0289815273,-0.103598595,-0.52029866
@@ -1479,7 +1479,7 @@ PART
 {
 	part = BKIBioMount_4292812338
 	partName = Part
-	persistentId = 2801576854
+	persistentId = 516048589
 	pos = 0.00629737508,15.1254454,-0.529829264
 	attPos = 0,0,0
 	attPos0 = 0.00629737508,0.125445366,-0.529829264
@@ -1617,7 +1617,7 @@ PART
 {
 	part = BKI.RoboticArm-curiosity2_4292811886
 	partName = Part
-	persistentId = 4145553889
+	persistentId = 3201402161
 	pos = 0.259095758,15.0653439,-0.500343502
 	attPos = 0,0,0
 	attPos0 = 0.259095758,0.0653438568,-0.500343502
@@ -1780,7 +1780,7 @@ PART
 {
 	part = BKI.SpareDrill_4292810702
 	partName = Part
-	persistentId = 2509315687
+	persistentId = 4027531055
 	pos = -0.191272497,14.9124346,-0.600711286
 	attPos = 0,0,0
 	attPos0 = -0.191272497,-0.0875654221,-0.600711286
@@ -1914,7 +1914,7 @@ PART
 {
 	part = Rocker.BKI_4292809786
 	partName = Part
-	persistentId = 1944521123
+	persistentId = 2255112174
 	pos = 0.37478435,14.993125,-0.0993749946
 	attPos = 0,0,0
 	attPos0 = 0.37478435,-0.00687503815,-0.0993749946
@@ -2229,7 +2229,7 @@ PART
 {
 	part = Rocker.BKI_4292808498
 	partName = Part
-	persistentId = 994346119
+	persistentId = 2957262814
 	pos = -0.37478435,14.993125,-0.0993749946
 	attPos = 0,0,0
 	attPos0 = -0.37478435,-0.00687503815,-0.0993749946
@@ -2528,16 +2528,16 @@ PART
 {
 	part = TenacityRoverMastConnector.BKI_4292800896
 	partName = Part
-	persistentId = 3782996010
-	pos = -0.210957065,15.2131281,-0.323017448
+	persistentId = 982138280
+	pos = -0.210956693,15.2131281,-0.323017269
 	attPos = 0,0,0
 	attPos0 = -6.04020897E-07,0.168972969,0.000978568685
-	rot = 0.385118127,1.78813934E-07,-0.593029678,0.707106829
+	rot = 0.385118127,1.49011612E-08,-0.593030095,0.707106471
 	attRot = 0,0,0,1
 	attRot0 = -1.86493835E-07,0.284015447,-2.96423957E-14,0.958819747
 	mir = 1,1,1
 	symMethod = Radial
-	autostrutMode = Off
+	autostrutMode = Heaviest
 	rigidAttachment = False
 	istg = -1
 	resPri = 0
@@ -2664,16 +2664,16 @@ PART
 {
 	part = TenacityRoverHeadRotor1.BKI_4292800340
 	partName = Part
-	persistentId = 4267617435
-	pos = -0.0999926925,15.2131281,-0.250956237
+	persistentId = 168343755
+	pos = -0.0999922454,15.2131281,-0.250955999
 	attPos = 0,0,0
 	attPos0 = -5.95867249E-08,0.132309914,2.98002494E-08
-	rot = 0.385118067,2.08616257E-07,-0.593029678,0.707106888
+	rot = 0.385118127,1.49011612E-07,-0.593030155,0.707106471
 	attRot = 0,0,0,1
 	attRot0 = 0,0,0,1
 	mir = 1,1,1
 	symMethod = Radial
-	autostrutMode = Off
+	autostrutMode = Heaviest
 	rigidAttachment = False
 	istg = -1
 	resPri = 0
@@ -2687,8 +2687,8 @@ PART
 	modMass = 0.000999999931
 	modSize = 0,0,0
 	link = TenacityRoverHead.BKI_4292799726
-	attN = N1,TenacityRoverHead.BKI_4292799726_0|0.0836527944|0_-2.22044552E-16|1|5.96046448E-08_-2.41568223E-08|0.0836529955|-1.62797509E-08_-1.57401701E-07|1.00000024|-2.0674814E-07
-	attN = N2,TenacityRoverMastConnector.BKI_4292800896_3.74584906E-25|-0.0224915799|0_2.22044605E-16|-1|5.96046448E-08_-1.31115092E-08|-0.0224915016|-2.62730566E-08_2.58201737E-07|-1.00000072|-3.18953397E-09
+	attN = N1,TenacityRoverHead.BKI_4292799726_0|0.0836527944|0_-2.22044552E-16|1|5.96046448E-08_-3.0773414E-08|0.0836529881|-1.31282647E-07_-2.1719049E-07|1.00000024|-2.61846083E-07
+	attN = N2,TenacityRoverMastConnector.BKI_4292800896_3.74584906E-25|-0.0224915799|0_2.22044605E-16|-1|5.96046448E-08_1.86647942E-08|-0.0224914849|2.43185703E-08_1.65260815E-07|-1.00000048|6.82140922E-08
 	EVENTS
 	{
 	}
@@ -2929,16 +2929,16 @@ PART
 {
 	part = TenacityRoverHead.BKI_4292799726
 	partName = Part
-	persistentId = 605818161
-	pos = 0.00215306878,15.2131281,-0.18462202
+	persistentId = 3203853872
+	pos = 0.00215414166,15.2131281,-0.184621319
 	attPos = 0,0,0
 	attPos0 = -1.98596695E-12,0.121794701,2.00000017E-11
-	rot = -0.337402076,-0.621417463,-0.62141788,0.337402463
+	rot = -0.337401897,-0.621417224,-0.621418118,0.337402523
 	attRot = 0,0,0,1
 	attRot0 = 0,0,0,1
 	mir = 1,1,1
 	symMethod = Radial
-	autostrutMode = Off
+	autostrutMode = Heaviest
 	rigidAttachment = False
 	istg = -1
 	resPri = 0
@@ -3240,7 +3240,7 @@ PART
 {
 	part = RockerArm.R.BKI_4292798622
 	partName = Part
-	persistentId = 1046587823
+	persistentId = 1167595675
 	pos = 0.496107519,14.9999113,-0.0993749946
 	attPos = 0,0,0
 	attPos0 = 0.121323183,0.00678634737,0
@@ -3506,7 +3506,7 @@ PART
 {
 	part = RockerArm.L.BKI_4292797940
 	partName = Part
-	persistentId = 1002045076
+	persistentId = 1249416624
 	pos = -0.496107519,14.9999113,-0.0993749946
 	attPos = 0,0,0
 	attPos0 = 0.121323183,0.00678634737,0
@@ -3772,7 +3772,7 @@ PART
 {
 	part = RockerBogieArm.L.BKI_4292794532
 	partName = Part
-	persistentId = 1453855639
+	persistentId = 1363614113
 	pos = 0.499841273,15.0006533,-0.0993749946
 	attPos = 0,0,0
 	attPos0 = 0.125056937,0.00752830599,0
@@ -4038,7 +4038,7 @@ PART
 {
 	part = RockerBogieArm.R.BKI_4292793608
 	partName = Part
-	persistentId = 1952849358
+	persistentId = 3054245142
 	pos = -0.499841273,15.0006533,-0.0993750021
 	attPos = 0,0,0
 	attPos0 = 0.125056937,0.00752830599,7.4505806E-09
@@ -4304,7 +4304,7 @@ PART
 {
 	part = Rocker-Bogie-bogie-L.BKI_4292793106
 	partName = Part
-	persistentId = 2538259406
+	persistentId = 3147580719
 	pos = 0.474060893,15.2619038,0.324783325
 	attPos = 0,0,0
 	attPos0 = 0.0256825257,-0.161520123,0.471252263
@@ -4329,8 +4329,8 @@ PART
 	link = Rocker-Bogie-Bogie-Arm-Back-R.BKI_4292791120
 	link = Rocker-Bogie-Bogie-Arm-FWD-R.BKI_4292790104
 	attN = bottom,RockerBogieArm.L.BKI_4292794532_-0.0386443771|0|0_-0.625|0|0_-0.0386443771|0|0_-0.625|0|0
-	attN = N1,Rocker-Bogie-Bogie-Arm-Back-R.BKI_4292791120_0|0|0_1.00000012|0|-1.1920929E-07_0|0|0_1.00000012|6.93835318E-08|-1.17068652E-07
-	attN = N2,Rocker-Bogie-Bogie-Arm-FWD-R.BKI_4292790104_0|0|0_1.00000012|0|-1.1920929E-07_0|0|0_1.00000012|6.93835318E-08|-1.17068652E-07
+	attN = N1,Rocker-Bogie-Bogie-Arm-Back-R.BKI_4292791120_0|0|0_1.00000012|0|-1.1920929E-07_0|0|0_1.00000012|6.93835318E-08|-1.09658856E-07
+	attN = N2,Rocker-Bogie-Bogie-Arm-FWD-R.BKI_4292790104_0|0|0_1.00000012|0|-1.1920929E-07_0|0|0_1.00000012|6.93835318E-08|-1.09658856E-07
 	EVENTS
 	{
 	}
@@ -4572,11 +4572,11 @@ PART
 {
 	part = Rocker-Bogie-bogie-R.BKI_4292792602
 	partName = Part
-	persistentId = 2904813255
+	persistentId = 4071558968
 	pos = -0.474060893,15.2619038,0.324783325
 	attPos = 0,0,0
 	attPos0 = -0.0256824698,-0.161520123,0.471252263
-	rot = -0.41820538,0.0860352218,0.00591848791,0.904249489
+	rot = -0.418205768,0.0860352963,0.00591859967,0.90424931
 	attRot = 0,0,0,1
 	attRot0 = 2.27181847E-08,-1.75771802E-07,0.104528464,0.994521916
 	mir = 1,1,1
@@ -4597,8 +4597,8 @@ PART
 	link = Rocker-Bogie-Bogie-Arm-B-L.BKI_4292792064
 	link = Rocker-Bogie-Bogie-Arm-FWD-L.BKI_4292790612
 	attN = bottom,RockerBogieArm.R.BKI_4292793608_0.0386443771|0|0_0.625|0|0_0.0386443771|0|0_0.625|0|0
-	attN = N1,Rocker-Bogie-Bogie-Arm-B-L.BKI_4292792064_0|0|0_-1.00000012|0|-1.1920929E-07_0|0|0_-1.00000012|2.4586916E-07|-2.13104244E-07
-	attN = N2,Rocker-Bogie-Bogie-Arm-FWD-L.BKI_4292790612_0|0|0_-1.00000012|0|-1.1920929E-07_0|0|0_-1.00000012|2.4586916E-07|-2.13104244E-07
+	attN = N1,Rocker-Bogie-Bogie-Arm-B-L.BKI_4292792064_0|0|0_-1.00000012|0|-1.1920929E-07_0|0|0_-1|1.13155693E-07|-9.80254526E-08
+	attN = N2,Rocker-Bogie-Bogie-Arm-FWD-L.BKI_4292790612_0|0|0_-1.00000012|0|-1.1920929E-07_0|0|0_-1|1.13155693E-07|-9.80254526E-08
 	EVENTS
 	{
 	}
@@ -4840,11 +4840,11 @@ PART
 {
 	part = Rocker-Bogie-Bogie-Arm-B-L.BKI_4292792064
 	partName = Part
-	persistentId = 1789176613
+	persistentId = 1100527234
 	pos = -0.474060893,15.2619038,0.324783325
 	attPos = 0,0,0
 	attPos0 = 0,0,0
-	rot = -0.0611684956,0.0823080763,-0.0257381797,0.994395018
+	rot = -0.0611686334,0.0823082104,-0.025738053,0.994394958
 	attRot = 0,0,0,1
 	attRot0 = -5.86529936E-10,-8.96143462E-08,-7.45057438E-09,1
 	mir = 1,1,1
@@ -4976,11 +4976,11 @@ PART
 {
 	part = Rocker-Bogie-Bogie-Arm-Back-R.BKI_4292791120
 	partName = Part
-	persistentId = 3466336064
+	persistentId = 940515346
 	pos = 0.474060893,15.2619038,0.324783325
 	attPos = 0,0,0
 	attPos0 = 0,0,0
-	rot = -0.0611684956,-0.0823075101,0.025738135,0.994395018
+	rot = -0.0611683056,-0.0823073834,0.0257381275,0.994395077
 	attRot = 0,0,0,1
 	attRot0 = -9.78868431E-10,1.49562695E-07,1.49011168E-08,1
 	mir = 1,1,1
@@ -5112,11 +5112,11 @@ PART
 {
 	part = Rocker-Bogie-Bogie-Arm-FWD-L.BKI_4292790612
 	partName = Part
-	persistentId = 4218234727
+	persistentId = 512521340
 	pos = -0.474060893,15.2619038,0.324783325
 	attPos = 0,0,0
 	attPos0 = 0,0,0
-	rot = -0.0611684956,0.0823080763,-0.0257381797,0.994395018
+	rot = -0.0611686334,0.0823082104,-0.025738053,0.994394958
 	attRot = 0,0,0,1
 	attRot0 = -5.86529936E-10,-8.96143462E-08,-7.45057438E-09,1
 	mir = 1,1,1
@@ -5248,11 +5248,11 @@ PART
 {
 	part = Rocker-Bogie-Bogie-Arm-FWD-R.BKI_4292790104
 	partName = Part
-	persistentId = 2423421956
+	persistentId = 4149304364
 	pos = 0.474060893,15.2619038,0.324783325
 	attPos = 0,0,0
 	attPos0 = 0,0,0
-	rot = -0.0611684956,-0.0823075101,0.025738135,0.994395018
+	rot = -0.0611683056,-0.0823073834,0.0257381275,0.994395077
 	attRot = 0,0,0,1
 	attRot0 = -9.78868431E-10,1.49562695E-07,1.49011168E-08,1
 	mir = 1,1,1
@@ -5384,11 +5384,11 @@ PART
 {
 	part = TenacityWheelRotor.BKI_4292789636
 	partName = Part
-	persistentId = 1565790312
+	persistentId = 3345572268
 	pos = 0.570385993,15.3094597,-0.601687074
 	attPos = 0,0,0
 	attPos0 = 0.133241028,-0.180896237,-0.550616026
-	rot = 0.371148378,0.425325453,0.147265553,0.812194526
+	rot = 0.371149868,0.425325751,0.14726539,0.812193692
 	attRot = 0,0,0,1
 	attRot0 = 1.33330843E-07,-5.49909274E-09,-0.104528524,0.994521916
 	mir = 1,1,1
@@ -5407,8 +5407,8 @@ PART
 	modMass = 0.000999999931
 	modSize = 0,0,0
 	link = BKI.roverWheel-curiosity_4292782256
-	attN = N1,RockerArm.R.BKI_4292798622_2.83839081E-25|0.00322263688|0_2.22044605E-16|1|5.96046448E-08_3.68745475E-07|0.00322283921|-2.98314196E-09_0|0.99999994|2.08616257E-07
-	attN = N2,BKI.roverWheel-curiosity_4292782256_2.18838224E-25|-0.00644524582|0_5.61287152E-07|-1.00000012|-1.1920929E-07_1.52940601E-07|-0.00644504745|-1.04701009E-07_7.59959221E-07|-1.00000048|-4.47034836E-08
+	attN = N1,RockerArm.R.BKI_4292798622_2.83839081E-25|0.00322263688|0_2.22044605E-16|1|5.96046448E-08_3.86389729E-07|0.00322292815|5.32963789E-08_5.96046448E-08|1.00000012|-8.94069672E-08
+	attN = N2,BKI.roverWheel-curiosity_4292782256_2.18838224E-25|-0.00644524582|0_5.61287152E-07|-1.00000012|-1.1920929E-07_1.38097676E-07|-0.00644513499|-1.43845654E-07_5.81145287E-07|-1.00000036|-1.49011612E-08
 	EVENTS
 	{
 	}
@@ -5650,11 +5650,11 @@ PART
 {
 	part = TenacityWheelRotor.BKI_4292789138
 	partName = Part
-	persistentId = 3228733727
-	pos = 0.509807587,15.3165264,0.72275722
+	persistentId = 1745154393
+	pos = 0.509807706,15.3165264,0.722757339
 	attPos = 0,0,0
 	attPos0 = 0.102453068,0.0025714566,0.390052646
-	rot = -0.0631793961,0.00467222976,0.020308882,0.997784674
+	rot = -0.0631796345,0.00467226841,0.0203088522,0.997784555
 	attRot = 0,0,0,1
 	attRot0 = 1.19209261E-07,-7.33351271E-07,5.98246767E-14,1
 	mir = 1,1,1
@@ -5673,8 +5673,8 @@ PART
 	modMass = 0.000999999931
 	modSize = 0,0,0
 	link = BKI.roverWheel-curiosity_4292781642
-	attN = N1,Rocker-Bogie-Bogie-Arm-Back-R.BKI_4292791120_2.83839081E-25|0.00322263688|0_2.22044605E-16|1|5.96046448E-08_3.86014918E-08|0.00322229369|-5.09244167E-08_3.62293235E-08|0.99999994|2.5912243E-08
-	attN = N2,BKI.roverWheel-curiosity_4292781642_2.18838224E-25|-0.00644524582|0_5.61287152E-07|-1.00000012|-1.1920929E-07_-2.49905163E-08|-0.0064453939|2.02683292E-08_5.73163447E-07|-1.00000036|-2.21081507E-07
+	attN = N1,Rocker-Bogie-Bogie-Arm-Back-R.BKI_4292791120_2.83839081E-25|0.00322263688|0_2.22044605E-16|1|5.96046448E-08_9.87973863E-08|0.0032222732|-2.18581107E-07_3.00120462E-09|1|-4.47520279E-08
+	attN = N2,BKI.roverWheel-curiosity_4292781642_2.18838224E-25|-0.00644524582|0_5.61287152E-07|-1.00000012|-1.1920929E-07_1.81302227E-08|-0.00644541346|-9.97808058E-08_5.7874297E-07|-1.00000048|-3.36865014E-07
 	EVENTS
 	{
 	}
@@ -5915,11 +5915,11 @@ PART
 {
 	part = TenacityWheelRotor.BKI_4292788640
 	partName = Part
-	persistentId = 4124875137
+	persistentId = 3345494888
 	pos = -0.570385933,15.3094597,-0.601687074
 	attPos = 0,0,0
 	attPos0 = -0.133241072,-0.180896237,-0.550616026
-	rot = 0.371148348,-0.425325692,-0.147265315,0.812194467
+	rot = 0.371148527,-0.425325215,-0.147265315,0.812194645
 	attRot = 0,0,0,1
 	attRot0 = 1.63382282E-07,6.83120547E-08,0.104528539,0.994521916
 	mir = 1,1,1
@@ -5938,8 +5938,8 @@ PART
 	modMass = 0.000999999931
 	modSize = 0,0,0
 	link = BKI.roverWheel-curiosity_4292783496
-	attN = N1,RockerArm.L.BKI_4292797940_2.83839081E-25|0.00322263688|0_2.22044605E-16|1|5.96046448E-08_-3.67253904E-07|0.00322283944|-3.71073883E-09_7.4505806E-08|1.00000012|0
-	attN = N2,BKI.roverWheel-curiosity_4292783496_2.18838224E-25|-0.00644524582|0_5.61287152E-07|-1.00000012|-1.1920929E-07_-1.58615848E-07|-0.00644506514|-1.00480982E-07_6.10947609E-07|-0.99999994|-4.47034836E-08
+	attN = N1,RockerArm.L.BKI_4292797940_2.83839081E-25|0.00322263688|0_2.22044605E-16|1|5.96046448E-08_-3.68418142E-07|0.00322283991|-3.74711817E-09_-4.47034836E-08|1|1.49011612E-08
+	attN = N2,BKI.roverWheel-curiosity_4292783496_2.18838224E-25|-0.00644524582|0_5.61287152E-07|-1.00000012|-1.1920929E-07_-1.56214824E-07|-0.00644506654|-1.00408215E-07_5.21540642E-07|-1.00000024|2.98023224E-08
 	EVENTS
 	{
 	}
@@ -6181,11 +6181,11 @@ PART
 {
 	part = TenacityWheelRotor.BKI_4292788142
 	partName = Part
-	persistentId = 2401140908
-	pos = -0.50980705,15.3165264,0.722757518
+	persistentId = 90972442
+	pos = -0.509806991,15.3165264,0.722758412
 	attPos = 0,0,0
 	attPos0 = -0.102453142,0.00257152063,0.390052795
-	rot = -0.0631788149,-0.00467210356,-0.0203091577,0.997784674
+	rot = -0.0631787777,-0.00467207097,-0.0203089789,0.997784674
 	attRot = 0,0,0,1
 	attRot0 = 2.98023188E-08,3.18549041E-07,-7.45059037E-09,1
 	mir = 1,1,1
@@ -6204,8 +6204,8 @@ PART
 	modMass = 0.000999999931
 	modSize = 0,0,0
 	link = BKI.roverWheel-curiosity_4292782690
-	attN = N1,Rocker-Bogie-Bogie-Arm-B-L.BKI_4292792064_2.83839081E-25|0.00322263688|0_2.22044605E-16|1|5.96046448E-08_2.88136963E-08|0.00322222756|-6.08665429E-09_-2.53657149E-08|1|1.15923712E-07
-	attN = N2,BKI.roverWheel-curiosity_4292782690_2.18838224E-25|-0.00644524582|0_5.61287152E-07|-1.00000012|-1.1920929E-07_6.49461214E-08|-0.00644544046|2.08227355E-08_5.57059991E-07|-1.00000012|1.53469315E-07
+	attN = N1,Rocker-Bogie-Bogie-Arm-B-L.BKI_4292792064_2.83839081E-25|0.00322263688|0_2.22044605E-16|1|5.96046448E-08_-1.7229377E-08|0.00322312466|3.09910959E-08_-2.79704047E-08|1.00000012|-2.87776061E-07
+	attN = N2,BKI.roverWheel-curiosity_4292782690_2.18838224E-25|-0.00644524582|0_5.61287152E-07|-1.00000012|-1.1920929E-07_5.43085577E-08|-0.00644554663|-3.52206762E-08_5.73560669E-07|-1.00000036|-5.05223738E-08
 	EVENTS
 	{
 	}
@@ -6446,7 +6446,7 @@ PART
 {
 	part = BKI.UHFAntenna_4292787644
 	partName = Part
-	persistentId = 101882096
+	persistentId = 2777015916
 	pos = -0.315575153,15.5046673,0.711247981
 	attPos = 0,0,0
 	attPos0 = -0.315575153,0.504667282,0.711247981
@@ -6605,7 +6605,7 @@ PART
 {
 	part = BKI.LowGainAntenna_4292787182
 	partName = Part
-	persistentId = 497732571
+	persistentId = 2851675253
 	pos = 0.309372783,15.360323,0.619934678
 	attPos = 0,0,0
 	attPos0 = 0.309372783,0.360322952,0.619934678
@@ -6764,11 +6764,11 @@ PART
 {
 	part = BKI.roverWheel-curiosity_4292783496
 	partName = Part
-	persistentId = 309348239
-	pos = -0.551192403,15.1385727,-0.784374833
+	persistentId = 2411365203
+	pos = -0.551192403,15.1385727,-0.784374774
 	attPos = 0,0,0
 	attPos0 = 1.08033419E-07,-0.250889361,-3.40936381E-08
-	rot = 0.371148288,-0.425325841,-0.147265047,0.812194526
+	rot = 0.371148735,-0.425325453,-0.147265047,0.812194467
 	attRot = 0,0,0,1
 	attRot0 = 6.51125021E-08,-1.20635946E-09,2.60770321E-07,1
 	mir = 1,1,1
@@ -7086,11 +7086,11 @@ PART
 {
 	part = BKI.roverWheel-curiosity_4292782690
 	partName = Part
-	persistentId = 4074504348
-	pos = -0.520123243,15.0678473,0.754341424
+	persistentId = 75310230
+	pos = -0.520123243,15.0678473,0.754342079
 	attPos = 0,0,0
 	attPos0 = 1.67651336E-07,-0.250889421,-1.48480446E-08
-	rot = -0.0631788447,-0.00467210449,-0.0203088298,0.997784674
+	rot = -0.0631788075,-0.00467204954,-0.0203086585,0.997784674
 	attRot = 0,0,0,1
 	attRot0 = 5.17412282E-08,-1.11884901E-09,2.75671511E-07,1
 	mir = 1,1,1
@@ -7400,11 +7400,11 @@ PART
 {
 	part = BKI.roverWheel-curiosity_4292782256
 	partName = Part
-	persistentId = 1266953771
-	pos = 0.551192641,15.1385727,-0.784374952
+	persistentId = 684254321
+	pos = 0.551192284,15.1385727,-0.784375131
 	attPos = 0,0,0
 	attPos0 = 8.56816698E-08,-0.250889331,-5.23847703E-08
-	rot = -0.147265762,0.812194467,0.371148497,-0.425325394
+	rot = -0.147265613,0.812193751,0.371149838,-0.425325632
 	attRot = 0,0.99999994,0,0
 	attRot0 = -2.68220901E-07,1,9.49021199E-08,-1.40142564E-09
 	mir = 1,1,1
@@ -7722,11 +7722,11 @@ PART
 {
 	part = BKI.roverWheel-curiosity_4292781642
 	partName = Part
-	persistentId = 4044317819
-	pos = 0.52012378,15.0678473,0.754341424
+	persistentId = 3266162363
+	pos = 0.520123839,15.0678473,0.754342258
 	attPos = 0,0,0
 	attPos0 = 7.45056425E-08,-0.250889361,-5.93927325E-08
-	rot = -0.0203091875,0.997784734,-0.0631793067,-0.00467224
+	rot = -0.0203091651,0.997784555,-0.0631798729,-0.00467220694
 	attRot = 0,0.99999994,0,0
 	attRot0 = -2.90572586E-07,1,1.12188914E-07,-1.51442237E-09
 	mir = 1,1,1
@@ -8044,11 +8044,11 @@ PART
 {
 	part = BKI.roverWheel-curiosity-nosteer_4292779220
 	partName = Part
-	persistentId = 1720114204
-	pos = 0.726612806,14.9923811,0.113222018
+	persistentId = 1379938458
+	pos = 0.726612747,14.9923811,0.113221988
 	attPos = 0,0,0
 	attPos0 = 0.198320523,-0.250899911,-0.280894041
-	rot = -0.0617059767,-0.0819061771,0.0322455913,0.994205356
+	rot = -0.0617060512,-0.0819060579,0.0322455317,0.994205296
 	attRot = 0,0,0,1
 	attRot0 = 9.99200722E-16,-7.33335696E-07,0.00654462725,0.999978662
 	mir = 1,1,1
@@ -8316,11 +8316,11 @@ PART
 {
 	part = BKI.roverWheel-curiosity-nosteer-R_4292778612
 	partName = Part
-	persistentId = 1811045241
-	pos = -0.726613224,14.992382,0.113221869
+	persistentId = 3984568169
+	pos = -0.726613402,14.992382,0.113222077
 	attPos = 0,0,0
 	attPos0 = -0.198320597,-0.250899822,-0.28089419
-	rot = 0.0322458893,0.994205236,-0.0617057867,-0.0819062442
+	rot = 0.0322457403,0.994205236,-0.061706014,-0.0819063485
 	attRot = 0,0.99999994,0,0
 	attRot0 = 0.00654493272,0.999978602,-4.88498131E-15,-3.17957074E-07
 	mir = 1,1,1
@@ -8588,7 +8588,7 @@ PART
 {
 	part = TenacityRoverRT.BKI_4292778008
 	partName = Part
-	persistentId = 3713684071
+	persistentId = 2396779050
 	pos = 3.74694858E-11,15.1953669,0.768928289
 	attPos = 0,0,0
 	attPos0 = 3.74694858E-11,0.195366859,0.768928289
@@ -8776,7 +8776,7 @@ PART
 {
 	part = BKI-SAM-curiosity_4292777122
 	partName = Part
-	persistentId = 1732977631
+	persistentId = 3477618297
 	pos = -0.102683127,15.1436853,-0.391608596
 	attPos = 0,0,0
 	attPos0 = -0.102683127,0.143685341,-0.391608596
@@ -8935,7 +8935,7 @@ PART
 {
 	part = BKIMSLHGAntenna_4292772484
 	partName = Part
-	persistentId = 2795410314
+	persistentId = 1156233449
 	pos = 0.296870619,15.1438408,0.287496299
 	attPos = 0,0,0
 	attPos0 = 0.296870619,0.14384079,0.287496299
