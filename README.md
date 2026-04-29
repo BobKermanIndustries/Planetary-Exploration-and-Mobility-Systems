@@ -12,6 +12,8 @@ Merge the Ships/ folder with the Ships/ folder inside your KSP_win64/ directory.
 
 DEPENDENCIES
 - Breaking Ground DLC
+- KSP Community Fixes
+- Deployable Engines
 - Module Manager
 - B9PartSwitch
 - Hullcam VDS Continued
